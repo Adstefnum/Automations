@@ -1,0 +1,3 @@
+subl
+tilix
+opera
